@@ -3,5 +3,3 @@
 We are an organization dedicated to sharing and promoting high-quality open-source projects! 🚀 Our projects cover a wide range of areas, including Android applications, website development, proxy tools, and more, providing developers and users with abundant resources. We firmly believe in the open-source spirit and hope to foster technological development and innovation through sharing and exchange. Welcome to visit our GitHub page and explore the exciting open-source world with us! 🌟
 
 
-
-<img align="left" src="https://https://github-readme-stats-lxj01ukaz-wzry2580s-projects.vercel.app/api?username=kwxmxb&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true&count_private=true"/>
